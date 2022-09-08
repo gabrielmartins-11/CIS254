@@ -1,5 +1,5 @@
 public class GabrielMartins {
 	public static void main(String[] args) {
-		System.out.println("Hello, my name is Gabriel!");
+		System.out.println("\nHello, how are you " + args[0] + "?\n");
 	}
 }
